@@ -85,12 +85,12 @@ const CoffeeShop = () => {
                 {/* Buttons */}
                 <Slide direction="down">
                 <div data-aos="fade-up" className="flex gap-5 pt-5">
-                    <button className="btn btn-outline text-xs lg:text-sm">
+                    <button className="btn btn-outline px-8 py-2 text-white hover:bg-black hover:text-white bg-[#623620] text-xs lg:text-sm">
                         Reservation
                     </button>
                     <div className="items-center space-x-2">
                         <button className="btn btn-outline rounded-full text-xs lg:text-sm">
-                            <SiGoogledisplayandvideo360 />
+                            <SiGoogledisplayandvideo360 className="text-[#623620]" />
                         </button>
                         <span className="text-xs">How to place order</span>
                     </div>

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Black Chocolate Mocha",
+      "rating": 0.00,
+      "stars": "★★★★★",
+      "price": 9.00,
+      "old_price": 10.00,
+      "description": "It is a long established fact that a reader will be distracted by the...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/102e45f2061616d1656eee77f453964ff0a95665.png"
+    },
+    {
+      "id": 2,
+      "name": "White Chocolate Mocha",
+      "rating": 4.5,
+      "stars": "★★★★☆",
+      "price": 8.50,
+      "old_price": 9.50,
+      "description": "A smooth blend of espresso with rich caramel flavor...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/a564bc8ae9932c6e5b1bdad094b550d64b4cfe5a.png"
+    },
+    {
+      "id": 3,
+      "name": "Milk Espresso Macchiat",
+      "rating": 4.8,
+      "stars": "★★★★★",
+      "price": 7.99,
+      "old_price": 8.99,
+      "description": "A delicious mix of vanilla and espresso, perfect for a sweet treat...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/34cafad2d5c1fd14a1a26d559009efbee6b2a4c9.png"
+    },
+    {
+      "id": 4,
+      "name": "Iced Caramel Latte",
+      "rating": 4.3,
+      "stars": "★★★★☆",
+      "price": 8.00,
+      "old_price": 9.00,
+      "description": "A nutty, creamy cappuccino with a hint of hazelnut...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/a564bc8ae9932c6e5b1bdad094b550d64b4cfe5a.png"
+    },
+    {
+      "id": 5,
+      "name": "Milk Espresso Macchiato",
+      "rating": 4.6,
+      "stars": "★★★★☆",
+      "price": 6.99,
+      "old_price": 7.99,
+      "description": "A bold and intense dark roast coffee for true coffee lovers...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/945c79cb62eda05ca66c2c910c415d6f5e10d7cc.png"
+    },
+    {
+      "id": 6,
+      "name": "Hot Coffee Americano",
+      "rating": 4.9,
+      "stars": "★★★★★",
+      "price": 9.50,
+      "old_price": 10.50,
+      "description": "A refreshing mix of chocolate and espresso served over ice...",
+      "image": "https://rms.rafholding.com/assets/front/img/product/featured/102e45f2061616d1656eee77f453964ff0a95665.png"
+    }
+  ]
+  

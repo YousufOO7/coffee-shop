@@ -40,7 +40,7 @@ const Navbar = () => {
                             }
                         </ul>
                     </div>
-                    <a className="btn btn-outline border-none text-xl"><img src={navLogo} className="w-[50px] h-[50px]" alt="" /></a>
+                    <a href="#" className=" border-none text-xl"><img src={navLogo} className="w-[60px] h-[60px]" alt="" /></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -50,7 +50,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                    <a className="btn px-8 py-2 text-white hover:bg-black hover:text-white bg-[#623620]">Reservation</a>
                 </div>
             </div>
         </div>
